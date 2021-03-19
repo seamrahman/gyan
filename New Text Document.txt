@@ -1,0 +1,16 @@
+black.color: #2d3e50
+ yellow color:#fbaa33
+ 
+ font-family: 'Arimo', sans-serif;
+ 
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-pinterest-p"></i>
+
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-behance"></i>
+<i class="fab fa-google-plus-g"></i>
+ 
